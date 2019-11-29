@@ -1,0 +1,118 @@
+h3 {
+    text-align: left;
+    color: white;
+}
+.service-item a{
+    color: #333;
+    font-size: 20px;
+    height: 40px;
+    width: auto;
+    line-height: 40px;
+
+}
+.service-item a:hover{
+	border-radius: 100%;
+	color: red;
+	font-size: 40px;
+
+
+}
+#success_message{ display: none;}
+.simbol{
+    position: absolute;
+    right: 140px;
+    padding-top: 0px; 
+    top: 10px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 10;
+    font-size: 20px;
+}
+ .navbar-default{
+ 	background-color: #00a5ff;
+ 	color: silver;
+
+ }
+ .navbar-default .navbar-nav > li > a {
+	color: white;
+	padding-top: 30px;
+}
+.navbar-default .navbar-brand {
+	color: white;
+}
+.gambar{
+	height: 50px;
+	padding-bottom: 10px;
+}
+.judul{
+	height: 70px;
+}
+.editpassword{
+	padding-top: 20px;
+}
+.navbar-inverse{
+	height: 100px;
+	background-color: #fff;
+	bottom: 30px;
+    border-top:2px solid black;
+    border-bottom: 2px solid black;
+}
+.silang{
+    position: absolute;
+    right: 80px;
+    top: 80px;
+}
+b{
+    color: white;
+}
+.kotak{
+    background-color:white;
+    height: 950px;
+    border-radius: 20px;
+    border:3px dashed black;
+}
+.latar{
+    background-image: url(../images/eight_horns.png);
+}
+.tempat{
+    height: 300px;
+    background-color: silver;
+    border-radius: 10px;
+    border:3px dashed #111;
+}
+.tombol{
+    position: relative;
+    left: 1060px;
+}
+.gambar{
+    position: absolute;
+    left: 200px;
+    top: 30px;
+    height: 60px;
+
+}
+.kartu{
+    background-color: orange;
+    padding-left: 60px;
+    padding-bottom: 10px;
+    margin-top: 50px;
+
+}
+.logo{
+    position: absolute;
+    left: 900px;
+    bottom: 20px;
+    height: 50px;
+}
+.isi{
+    background-color: grey;
+    margin-top: 20px;
+    padding-bottom: 5px;
+
+}
+.title{
+    color: white;
+    
+}
